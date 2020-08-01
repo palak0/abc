@@ -1,0 +1,10 @@
+#pro{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#im{
+	max-height: 50%;
+	max-width: 80%;
+	filter: grayscale(0);
+}
